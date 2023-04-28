@@ -1,0 +1,7 @@
+1. Creating a Venv
+	python -m venv <venv dir name> 
+	python -m venv venv
+2. Activation:
+	venv\Scripts\venv
+3. Deactivation:
+	deactivate
